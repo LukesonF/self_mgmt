@@ -1,0 +1,38 @@
+name: Weekly Slack Digest
+
+on:
+  schedule:
+    - cron: '0 14 * * 5'  # Every Friday 14:00 UTC = 15:00 Lisbon (summer)
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run digest
+        env:
+          SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+          SLACK_USER_ID: ${{ secrets.SLACK_USER_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          USER_EMAIL: lukas@equalfood.co
+        run: node digest.js
+
+      - name: Commit updated history
+        run: |
+          git config user.name "Slack Digest Bot"
+          git config user.email "digest@equalfood.co"
+          git add data/history.json
+          git diff --staged --quiet || git commit -m "chore: weekly digest history $(date +%Y-%m-%d)" && git push
