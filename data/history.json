@@ -36,5 +36,51 @@
     "peakHour": 15,
     "peopleMentionedCount": 0,
     "questionCount": 8
+  },
+  {
+    "week": "2026-05-29",
+    "messageCount": 200,
+    "topLevelMessages": 200,
+    "threadReplies": 0,
+    "totalWords": 6857,
+    "avgWordsPerMessage": 34,
+    "channelCount": 21,
+    "topChannels": [
+      [
+        "clientes_b2c",
+        37
+      ],
+      [
+        "mpdm-lukas--compras.equalfood--gestaob2b2c--hello--eduardo.basso-1",
+        35
+      ],
+      [
+        "U084KD4FN5A",
+        22
+      ],
+      [
+        "U0B2D6EPE3T",
+        16
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        14
+      ],
+      [
+        "mgmt",
+        14
+      ],
+      [
+        "rh",
+        10
+      ],
+      [
+        "clientes_marketing",
+        9
+      ]
+    ],
+    "peakHour": 8,
+    "peopleMentionedCount": 1,
+    "questionCount": 52
   }
 ]
