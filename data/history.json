@@ -82,5 +82,51 @@
     "peakHour": 8,
     "peopleMentionedCount": 1,
     "questionCount": 52
+  },
+  {
+    "week": "2026-06-05",
+    "messageCount": 102,
+    "topLevelMessages": 102,
+    "threadReplies": 0,
+    "totalWords": 5989,
+    "avgWordsPerMessage": 59,
+    "channelCount": 21,
+    "topChannels": [
+      [
+        "mpdm-lukas--compras.equalfood--gestaob2b2c--hello--eduardo.basso-1",
+        22
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        19
+      ],
+      [
+        "U084KD4FN5A",
+        9
+      ],
+      [
+        "mgmt",
+        6
+      ],
+      [
+        "U014HM57856",
+        5
+      ],
+      [
+        "clientes_b2c",
+        5
+      ],
+      [
+        "mpdm-lukas--andre.castro--hello-1",
+        5
+      ],
+      [
+        "rh_operacoes",
+        4
+      ]
+    ],
+    "peakHour": 11,
+    "peopleMentionedCount": 1,
+    "questionCount": 33
   }
 ]
