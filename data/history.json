@@ -220,5 +220,51 @@
     "peakHour": 10,
     "peopleMentionedCount": 1,
     "questionCount": 29
+  },
+  {
+    "week": "2026-07-03",
+    "messageCount": 133,
+    "topLevelMessages": 133,
+    "threadReplies": 0,
+    "totalWords": 1954,
+    "avgWordsPerMessage": 15,
+    "channelCount": 18,
+    "topChannels": [
+      [
+        "GESTAO_PEDIDOS",
+        37
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        17
+      ],
+      [
+        "U07G22S8MTM",
+        15
+      ],
+      [
+        "clientes_marketing",
+        10
+      ],
+      [
+        "U084KD4FN5A",
+        10
+      ],
+      [
+        "ops_mgmt",
+        9
+      ],
+      [
+        "mgmt",
+        7
+      ],
+      [
+        "rh",
+        6
+      ]
+    ],
+    "peakHour": 15,
+    "peopleMentionedCount": 0,
+    "questionCount": 35
   }
 ]
