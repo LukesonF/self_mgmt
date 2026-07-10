@@ -266,5 +266,51 @@
     "peakHour": 15,
     "peopleMentionedCount": 0,
     "questionCount": 35
+  },
+  {
+    "week": "2026-07-10",
+    "messageCount": 58,
+    "topLevelMessages": 58,
+    "threadReplies": 0,
+    "totalWords": 532,
+    "avgWordsPerMessage": 9,
+    "channelCount": 14,
+    "topChannels": [
+      [
+        "GESTAO_PEDIDOS",
+        12
+      ],
+      [
+        "mpdm-lukas--andre.castro--hello-1",
+        11
+      ],
+      [
+        "ops_mgmt",
+        7
+      ],
+      [
+        "finanças",
+        5
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        5
+      ],
+      [
+        "tech_api_tests",
+        5
+      ],
+      [
+        "clientes_novos_b2x",
+        3
+      ],
+      [
+        "U084KD4FN5A",
+        2
+      ]
+    ],
+    "peakHour": 10,
+    "peopleMentionedCount": 1,
+    "questionCount": 19
   }
 ]
