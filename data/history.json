@@ -312,5 +312,51 @@
     "peakHour": 10,
     "peopleMentionedCount": 1,
     "questionCount": 19
+  },
+  {
+    "week": "2026-07-17",
+    "messageCount": 59,
+    "topLevelMessages": 59,
+    "threadReplies": 0,
+    "totalWords": 802,
+    "avgWordsPerMessage": 14,
+    "channelCount": 15,
+    "topChannels": [
+      [
+        "clientes_b2b_b2b2c",
+        9
+      ],
+      [
+        "GESTAO_PEDIDOS",
+        9
+      ],
+      [
+        "mgmt",
+        8
+      ],
+      [
+        "rh_operacoes",
+        6
+      ],
+      [
+        "U07G22S8MTM",
+        6
+      ],
+      [
+        "rh",
+        5
+      ],
+      [
+        "ops_mgmt",
+        4
+      ],
+      [
+        "produto_cooking_room",
+        3
+      ]
+    ],
+    "peakHour": 12,
+    "peopleMentionedCount": 0,
+    "questionCount": 28
   }
 ]
