@@ -404,5 +404,51 @@
     "peakHour": 11,
     "peopleMentionedCount": 8,
     "questionCount": 27
+  },
+  {
+    "week": "2026-07-31",
+    "messageCount": 108,
+    "topLevelMessages": 108,
+    "threadReplies": 0,
+    "totalWords": 1537,
+    "avgWordsPerMessage": 14,
+    "channelCount": 18,
+    "topChannels": [
+      [
+        "GESTAO_PEDIDOS",
+        25
+      ],
+      [
+        "rh_operacoes",
+        17
+      ],
+      [
+        "U084KD4FN5A",
+        17
+      ],
+      [
+        "clientes_marketing",
+        9
+      ],
+      [
+        "rh",
+        7
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        6
+      ],
+      [
+        "U064RUY21NV",
+        5
+      ],
+      [
+        "ops_mgmt",
+        5
+      ]
+    ],
+    "peakHour": 17,
+    "peopleMentionedCount": 8,
+    "questionCount": 39
   }
 ]
