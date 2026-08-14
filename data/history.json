@@ -496,5 +496,51 @@
     "peakHour": 14,
     "peopleMentionedCount": 8,
     "questionCount": 11
+  },
+  {
+    "week": "2026-08-14",
+    "messageCount": 62,
+    "topLevelMessages": 62,
+    "threadReplies": 0,
+    "totalWords": 1039,
+    "avgWordsPerMessage": 17,
+    "channelCount": 13,
+    "topChannels": [
+      [
+        "Gestão de Pedidos",
+        21
+      ],
+      [
+        "ops_mgmt",
+        7
+      ],
+      [
+        "rh_operacoes",
+        6
+      ],
+      [
+        "finanças",
+        6
+      ],
+      [
+        "finanças_payables_receivables",
+        5
+      ],
+      [
+        "produto_cooking_room",
+        3
+      ],
+      [
+        "clientes_b2b_b2b2c",
+        3
+      ],
+      [
+        "mgmt",
+        3
+      ]
+    ],
+    "peakHour": 18,
+    "peopleMentionedCount": 6,
+    "questionCount": 17
   }
 ]
