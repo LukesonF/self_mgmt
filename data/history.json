@@ -542,5 +542,51 @@
     "peakHour": 18,
     "peopleMentionedCount": 6,
     "questionCount": 17
+  },
+  {
+    "week": "2026-08-21",
+    "messageCount": 40,
+    "topLevelMessages": 40,
+    "threadReplies": 0,
+    "totalWords": 1989,
+    "avgWordsPerMessage": 50,
+    "channelCount": 12,
+    "topChannels": [
+      [
+        "ops_mgmt",
+        7
+      ],
+      [
+        "rh_operacoes",
+        7
+      ],
+      [
+        "finanças",
+        5
+      ],
+      [
+        "mpdm-lukas--alberto--ricardo-1",
+        4
+      ],
+      [
+        "Gestão de Pedidos",
+        3
+      ],
+      [
+        "mgmt",
+        3
+      ],
+      [
+        "U084KD4FN5A",
+        3
+      ],
+      [
+        "reports",
+        2
+      ]
+    ],
+    "peakHour": 9,
+    "peopleMentionedCount": 7,
+    "questionCount": 10
   }
 ]
