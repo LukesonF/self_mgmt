@@ -588,5 +588,51 @@
     "peakHour": 9,
     "peopleMentionedCount": 7,
     "questionCount": 10
+  },
+  {
+    "week": "2026-08-28",
+    "messageCount": 14,
+    "topLevelMessages": 14,
+    "threadReplies": 0,
+    "totalWords": 83,
+    "avgWordsPerMessage": 6,
+    "channelCount": 9,
+    "topChannels": [
+      [
+        "ops_mgmt",
+        3
+      ],
+      [
+        "rh",
+        3
+      ],
+      [
+        "rh_operacoes",
+        2
+      ],
+      [
+        "mpdm-paypaljoao--alberto--lukas-1",
+        1
+      ],
+      [
+        "U084KD4FN5A",
+        1
+      ],
+      [
+        "reports",
+        1
+      ],
+      [
+        "gestão-pedidos",
+        1
+      ],
+      [
+        "clientes_marketing",
+        1
+      ]
+    ],
+    "peakHour": 21,
+    "peopleMentionedCount": 4,
+    "questionCount": 4
   }
 ]
