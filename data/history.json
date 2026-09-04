@@ -634,5 +634,51 @@
     "peakHour": 21,
     "peopleMentionedCount": 4,
     "questionCount": 4
+  },
+  {
+    "week": "2026-09-04",
+    "messageCount": 30,
+    "topLevelMessages": 30,
+    "threadReplies": 0,
+    "totalWords": 1018,
+    "avgWordsPerMessage": 34,
+    "channelCount": 14,
+    "topChannels": [
+      [
+        "gestão-pedidos",
+        7
+      ],
+      [
+        "mpdm-lukas--ricardo--paypaljoao-1",
+        4
+      ],
+      [
+        "ops_mgmt",
+        3
+      ],
+      [
+        "gestão_ef",
+        3
+      ],
+      [
+        "rh",
+        3
+      ],
+      [
+        "OLD Gestão de Pedidos",
+        2
+      ],
+      [
+        "U014HM57856",
+        1
+      ],
+      [
+        "mgmt",
+        1
+      ]
+    ],
+    "peakHour": 10,
+    "peopleMentionedCount": 6,
+    "questionCount": 16
   }
 ]
