@@ -680,5 +680,51 @@
     "peakHour": 10,
     "peopleMentionedCount": 6,
     "questionCount": 16
+  },
+  {
+    "week": "2026-09-11",
+    "messageCount": 137,
+    "topLevelMessages": 137,
+    "threadReplies": 0,
+    "totalWords": 2889,
+    "avgWordsPerMessage": 21,
+    "channelCount": 24,
+    "topChannels": [
+      [
+        "U0AH517JCN8",
+        25
+      ],
+      [
+        "gestão-pedidos",
+        16
+      ],
+      [
+        "U07G22S8MTM",
+        15
+      ],
+      [
+        "mgmt",
+        14
+      ],
+      [
+        "ops_mgmt",
+        12
+      ],
+      [
+        "gestão_ef",
+        9
+      ],
+      [
+        "produto_cooking_room",
+        8
+      ],
+      [
+        "rh_operacoes",
+        6
+      ]
+    ],
+    "peakHour": 12,
+    "peopleMentionedCount": 8,
+    "questionCount": 49
   }
 ]
