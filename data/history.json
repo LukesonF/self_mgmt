@@ -1,51 +1,5 @@
 [
   {
-    "week": "2026-06-05",
-    "messageCount": 102,
-    "topLevelMessages": 102,
-    "threadReplies": 0,
-    "totalWords": 5989,
-    "avgWordsPerMessage": 59,
-    "channelCount": 21,
-    "topChannels": [
-      [
-        "mpdm-lukas--compras.equalfood--gestaob2b2c--hello--eduardo.basso-1",
-        22
-      ],
-      [
-        "clientes_b2b_b2b2c",
-        19
-      ],
-      [
-        "U084KD4FN5A",
-        9
-      ],
-      [
-        "mgmt",
-        6
-      ],
-      [
-        "U014HM57856",
-        5
-      ],
-      [
-        "clientes_b2c",
-        5
-      ],
-      [
-        "mpdm-lukas--andre.castro--hello-1",
-        5
-      ],
-      [
-        "rh_operacoes",
-        4
-      ]
-    ],
-    "peakHour": 11,
-    "peopleMentionedCount": 1,
-    "questionCount": 33
-  },
-  {
     "week": "2026-06-12",
     "messageCount": 148,
     "topLevelMessages": 148,
@@ -734,5 +688,51 @@
     "peakHour": 10,
     "peopleMentionedCount": 8,
     "questionCount": 60
+  },
+  {
+    "week": "2026-10-02",
+    "messageCount": 116,
+    "topLevelMessages": 116,
+    "threadReplies": 0,
+    "totalWords": 4087,
+    "avgWordsPerMessage": 35,
+    "channelCount": 16,
+    "topChannels": [
+      [
+        "gestão-pedidos",
+        31
+      ],
+      [
+        "mgmt",
+        19
+      ],
+      [
+        "U07G22S8MTM",
+        16
+      ],
+      [
+        "gestão_ef",
+        14
+      ],
+      [
+        "ops_mgmt",
+        9
+      ],
+      [
+        "U0AH517JCN8",
+        9
+      ],
+      [
+        "U014HM57856",
+        4
+      ],
+      [
+        "clientes_marketing",
+        2
+      ]
+    ],
+    "peakHour": 12,
+    "peopleMentionedCount": 6,
+    "questionCount": 29
   }
 ]
