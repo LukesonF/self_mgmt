@@ -1,51 +1,5 @@
 [
   {
-    "week": "2026-06-19",
-    "messageCount": 100,
-    "topLevelMessages": 100,
-    "threadReplies": 0,
-    "totalWords": 1655,
-    "avgWordsPerMessage": 17,
-    "channelCount": 17,
-    "topChannels": [
-      [
-        "mpdm-lukas--compras.equalfood--gestaob2b2c--hello--eduardo.basso-1",
-        20
-      ],
-      [
-        "U084KD4FN5A",
-        15
-      ],
-      [
-        "clientes_b2b_b2b2c",
-        11
-      ],
-      [
-        "mgmt",
-        10
-      ],
-      [
-        "finanças",
-        10
-      ],
-      [
-        "ops_mgmt",
-        7
-      ],
-      [
-        "clientes_marketing",
-        7
-      ],
-      [
-        "tech_api_tests",
-        5
-      ]
-    ],
-    "peakHour": 10,
-    "peopleMentionedCount": 1,
-    "questionCount": 29
-  },
-  {
     "week": "2026-07-03",
     "messageCount": 133,
     "topLevelMessages": 133,
@@ -734,5 +688,51 @@
     "peakHour": 11,
     "peopleMentionedCount": 7,
     "questionCount": 27
+  },
+  {
+    "week": "2026-10-16",
+    "messageCount": 162,
+    "topLevelMessages": 162,
+    "threadReplies": 0,
+    "totalWords": 4776,
+    "avgWordsPerMessage": 29,
+    "channelCount": 16,
+    "topChannels": [
+      [
+        "ops_mgmt",
+        66
+      ],
+      [
+        "gestão_ef",
+        33
+      ],
+      [
+        "finanças",
+        11
+      ],
+      [
+        "U07G22S8MTM",
+        10
+      ],
+      [
+        "rh_operacoes",
+        9
+      ],
+      [
+        "U014HM57856",
+        7
+      ],
+      [
+        "mgmt",
+        7
+      ],
+      [
+        "mpdm-lukas--ricardo--paypaljoao-1",
+        4
+      ]
+    ],
+    "peakHour": 12,
+    "peopleMentionedCount": 8,
+    "questionCount": 38
   }
 ]
