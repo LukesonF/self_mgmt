@@ -1,51 +1,5 @@
 [
   {
-    "week": "2026-07-10",
-    "messageCount": 58,
-    "topLevelMessages": 58,
-    "threadReplies": 0,
-    "totalWords": 532,
-    "avgWordsPerMessage": 9,
-    "channelCount": 14,
-    "topChannels": [
-      [
-        "GESTAO_PEDIDOS",
-        12
-      ],
-      [
-        "mpdm-lukas--andre.castro--hello-1",
-        11
-      ],
-      [
-        "ops_mgmt",
-        7
-      ],
-      [
-        "finanças",
-        5
-      ],
-      [
-        "clientes_b2b_b2b2c",
-        5
-      ],
-      [
-        "tech_api_tests",
-        5
-      ],
-      [
-        "clientes_novos_b2x",
-        3
-      ],
-      [
-        "U084KD4FN5A",
-        2
-      ]
-    ],
-    "peakHour": 10,
-    "peopleMentionedCount": 1,
-    "questionCount": 19
-  },
-  {
     "week": "2026-07-17",
     "messageCount": 59,
     "topLevelMessages": 59,
@@ -734,5 +688,51 @@
     "peakHour": 15,
     "peopleMentionedCount": 6,
     "questionCount": 42
+  },
+  {
+    "week": "2026-11-06",
+    "messageCount": 116,
+    "topLevelMessages": 116,
+    "threadReplies": 0,
+    "totalWords": 4738,
+    "avgWordsPerMessage": 41,
+    "channelCount": 18,
+    "topChannels": [
+      [
+        "ops_mgmt",
+        38
+      ],
+      [
+        "mpdm-lukas--ricardo--paypaljoao-1",
+        14
+      ],
+      [
+        "rh_operacoes",
+        11
+      ],
+      [
+        "gestão_ef",
+        10
+      ],
+      [
+        "finanças_erp",
+        8
+      ],
+      [
+        "U014HM57856",
+        7
+      ],
+      [
+        "produto_cooking_room",
+        7
+      ],
+      [
+        "finanças",
+        5
+      ]
+    ],
+    "peakHour": 18,
+    "peopleMentionedCount": 6,
+    "questionCount": 31
   }
 ]
