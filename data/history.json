@@ -1,51 +1,5 @@
 [
   {
-    "week": "2026-07-17",
-    "messageCount": 59,
-    "topLevelMessages": 59,
-    "threadReplies": 0,
-    "totalWords": 802,
-    "avgWordsPerMessage": 14,
-    "channelCount": 15,
-    "topChannels": [
-      [
-        "clientes_b2b_b2b2c",
-        9
-      ],
-      [
-        "GESTAO_PEDIDOS",
-        9
-      ],
-      [
-        "mgmt",
-        8
-      ],
-      [
-        "rh_operacoes",
-        6
-      ],
-      [
-        "U07G22S8MTM",
-        6
-      ],
-      [
-        "rh",
-        5
-      ],
-      [
-        "ops_mgmt",
-        4
-      ],
-      [
-        "produto_cooking_room",
-        3
-      ]
-    ],
-    "peakHour": 12,
-    "peopleMentionedCount": 0,
-    "questionCount": 28
-  },
-  {
     "week": "2026-07-24",
     "messageCount": 92,
     "topLevelMessages": 92,
@@ -734,5 +688,51 @@
     "peakHour": 18,
     "peopleMentionedCount": 6,
     "questionCount": 31
+  },
+  {
+    "week": "2026-11-13",
+    "messageCount": 117,
+    "topLevelMessages": 117,
+    "threadReplies": 0,
+    "totalWords": 4674,
+    "avgWordsPerMessage": 40,
+    "channelCount": 16,
+    "topChannels": [
+      [
+        "ops_mgmt",
+        34
+      ],
+      [
+        "mpdm-lukas--ricardo--paypaljoao-1",
+        20
+      ],
+      [
+        "gestão_ef",
+        14
+      ],
+      [
+        "rh",
+        13
+      ],
+      [
+        "U014HM57856",
+        7
+      ],
+      [
+        "produto_cooking_room",
+        6
+      ],
+      [
+        "U064RUY21NV",
+        5
+      ],
+      [
+        "mgmt",
+        5
+      ]
+    ],
+    "peakHour": 13,
+    "peopleMentionedCount": 5,
+    "questionCount": 22
   }
 ]
